@@ -1,0 +1,160 @@
+body{
+    background-color: aliceblue;
+    color: blue;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+#conteneur{
+    background-color: aquamarine;
+    width: 850px;
+    margin: 10px auto;
+    border-radius: 15px;
+}
+#conteneur .center_title{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px blue;
+    color: white;
+    text-decoration: underline;
+}
+#conteneur .ctn_detail{
+    /* background-color: lightcoral; */
+    height: 150px;
+    width: 500px;
+    margin-left: 181px;
+    padding-top: 10px;
+}
+#conteneur .ctn_detail .photo{
+    /* background-color: lightgreen; */
+    float: left;
+    border-radius: 50%;
+    height: 100%;
+}
+#conteneur .ctn_detail .detail{
+    /* background-color: lightskyblue; */
+    text-align: justify;
+    list-style-type: none;
+    float: left;
+    margin-top: 25px;
+    
+}
+#conteneur .cv_section{
+    /* background-color: lightgray; */
+    text-align: left;
+    margin : 20px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+#conteneur hr{
+    width: 80%;
+    color: blue;
+}
+
+#conteneur .cv_section .remplir{
+    text-align: justify;
+    list-style-type: none;
+    border-left: 1px solid lightgray;
+    margin-top: 5px;
+}
+
+
+#conteneur .cv_section .description{
+    text-shadow: 1px 1px white;
+    text-transform: capitalize;
+    
+}
+p{
+    margin-bottom: 0px;
+}
+
+
+
+
+
+/* 
+body{
+    background-color: beige;
+    color: blue;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+hr{ 
+    border-color: blue;
+    border-width: 1px;
+    margin-top: 30px;
+}
+
+#contenant{
+    background-color: aquamarine;
+    border-radius: 10px;
+    width: 50%;
+    padding: 20px 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.container_1{
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px ;
+}
+
+img{
+    left: 91px;
+    position: absolute;
+    border-radius: 50%;
+    height: 200px;
+}
+.listInformation{
+    top: 66px;
+    right: 91px;
+    position: absolute;
+    text-align: left;
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    width: 300px;
+    list-style-type: none;
+}
+
+.centrer_h2{
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.centrer{
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px blue;
+    color: white;
+}
+
+h3{
+    text-transform: capitalize;
+    text-shadow: 2px 2px white;
+    color: blue;
+}
+
+.remplir{
+    text-align: justify;
+}
+h1, h2{
+    color: white;
+    text-shadow: 2px 2px blue;
+}
+li{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+}
+.dl{
+    color: gray;
+    padding: 10px 0px;
+    text-align: center;
+}
+.dl p{
+    display: inline;
+    padding-right: 10px;
+} 
+*/
+
